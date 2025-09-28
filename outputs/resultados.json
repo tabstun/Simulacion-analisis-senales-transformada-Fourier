@@ -1,0 +1,12 @@
+{
+  "linearity_max_error_fft": 1.9856343629045175e-13,
+  "time_shift_max_error_fft": 50.29351089462406,
+  "time_scaling_max_error_fft": 569.8567309113541,
+  "sampling_rate_Hz": 2000.0,
+  "N_samples": 2000,
+  "duration_s": 1.0,
+  "rect_width_s": 0.2,
+  "sine_freq_Hz": 50.0,
+  "time_shift_s": 0.05,
+  "time_scale_a": 2.0
+}
